@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good news from Ireland being an exact relation of the late good successe at Sliggo against the Irish rebels. Communicated to both Houses of Parliament on Munday last 12. Ianuary 1645. Performed by Charles Coot, Sir William Cole, and Sir Francis Hamilton, with the particulars thereof. As also divers letters of great importance concerning the estate of that kingdome and of the kingdome of England, which were found in the pockets of their commander in chiefe. Together with a list of the prisoners taken, the number slaine on both sides, and the names of all the commanders. Published by authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85354</idno>
+            <idno type="STC">Wing G1060</idno>
+            <idno type="STC">Thomason E316_6</idno>
+            <idno type="STC">ESTC R200524</idno>
+            <idno type="EEBO-CITATION">99861245</idno>
+            <idno type="PROQUEST">99861245</idno>
+            <idno type="VID">113376</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85354)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113376)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 52:E316[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good news from Ireland being an exact relation of the late good successe at Sliggo against the Irish rebels. Communicated to both Houses of Parliament on Munday last 12. Ianuary 1645. Performed by Charles Coot, Sir William Cole, and Sir Francis Hamilton, with the particulars thereof. As also divers letters of great importance concerning the estate of that kingdome and of the kingdome of England, which were found in the pockets of their commander in chiefe. Together with a list of the prisoners taken, the number slaine on both sides, and the names of all the commanders. Published by authority.</title>
+               </titleStmt>
+               <extent>[2], 4, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Iohn Wright at the Kings Head in the old Bayley.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>15. Jan. 1645 [i.e. 1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mountrath, Charles Coote, --  Earl of, ca. 1610-1661.</term>
+               <term>Cole, William, --  Sir, d. 1653.</term>
+               <term>Hamilton, Francis, --  Sir, fl. 1645.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Sligo (Ireland) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113376:1"/>
+            <pb facs="tcp:113376:1" rendition="simple:additions"/>
+            <p>Good News from IRELAND Being an exact Relation of the late good ſucceſſe at Sliggo Againſt the Iriſh Rebels.</p>
+            <p>Communicated to both Houſes of Par<g ref="char:EOLhyphen"/>liament on Munday laſt 12. Ianuary 1645.</p>
+            <p>Performed by Sir <hi>Charles Coot,</hi> Sir <hi>William Cole,</hi> and Sir <hi>Francis Hamilton,</hi> with the particulars thereof.</p>
+            <p>As alſo divers Letters of great Importance concerning the Eſtate of that Kingdome and of the Kingdome of <hi>England,</hi> which were found in the Pockets of their Commander in chiefe.</p>
+            <p>Together with a Liſt of the Priſoners taken, the number ſlaine on both ſides, and the names of all the Commanders.</p>
+            <p>Publiſhed by Authority.</p>
+            <p>London printed for <hi>Iohn Wright</hi> at the Kings Head in the old Bayley. 15. Jan. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:113376:2"/>
+            <pb n="1" facs="tcp:113376:2"/>
+            <head>A true Relation of the late ſucceſſe at <hi>Sliggo</hi> againſt the Iriſh Rebels.</head>
+            <head type="sub">Performed by Sir <hi>Charles Coot,</hi> Sir <hi>William Cole,</hi> and Sir <hi>Francis Hambleton,</hi> with the particulars hereafter expreſſed.</head>
+            <p>
+               <seg rend="decorInit">O</seg>N Sunday the 17. of October 1645. the Iriſh Rebels having ſurrounded the Towne with 1000. Foot and 300. Horſe, the Garriſon ſeeing little hope of the advance of the <hi>
+                  <g ref="char:V">Ʋ</g>lſter</hi> For<g ref="char:EOLhyphen"/>ces (who were then neere them at <hi>Bandron</hi>) though unknowne to them, conceived it abſolutely neceſſary to hazard the fighting with the Rebels with their own ſtrength and Sir <hi>William Coles</hi> Troops, rather then to ſtarve themſelves and loſe their out-Garriſons which were blocked up, the Enemy lying betweene them; Captaine <hi>Richard Coot</hi> and Captaine <hi>Richard Cole</hi>
+               <pb n="2" facs="tcp:113376:3"/>commanded our Horſe being two hundred, who charged the Rebels Horſe very reſolutely, and fell in to the Sword pell mell, and beat them among the Diviſions of their own Foot, and routed them, which Lieutenant Colonell <hi>Saunderſon</hi> recovered with the Foot, and Sir <hi>Francis Hamilton</hi> came alſo with his Troope in the nick of time, and had the execution of the Rebels for five miles, their Foot taking flight upon giving ground of their Horſe. In the purſuit their Commander and Preſident of that Province was flaine (the titular Archbiſhop of <hi>Tu<g ref="char:EOLhyphen"/>ain.</hi>) Our men took one hundred and fifty of their Horſes with Piſtols, all their Baggage, Tents, and Ammunition, there were two Wagons with rich Spoile and Money in them, they tooke ſeverall of their Standarts and Colours, foure and twenty Drummes and Officers of note, in number 48. who are now priſoners in <hi>Sliggo,</hi> about two hundred of their men lay killed in he place, and many more had beene, if Plunder had not beene preferred before Execution by our Foot; we had but one killed of Sir <hi>William Coles</hi> Troop, and ſix horſmen <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and ſome Horſe.</p>
+            <p>Upon this defeat one thouſand Foot and two hun<g ref="char:EOLhyphen"/>dred of the Enemies Horſe more that were on their march to <hi>Sliggo,</hi> friendly turned backe with their fellows, whom they met in great haſte flying, and our <hi>Laggan</hi> Forces comming alſo to relieve as, are now with us beleagering two ſtrong holds of the Rebels neere our quarters. The Archbiſhop was a principall Agent in theſe wars, and one of their ſu<g ref="char:EOLhyphen"/>preme
+<pb n="3" facs="tcp:113376:3"/>Councell; divers Papers and Letters of im<g ref="char:EOLhyphen"/>portance were found about him; hee had for his particular an Order from the Councell at <hi>Kilkenny</hi> for leavying the Arrears of his Biſhoprick, which Order and the Popes Bull and Letter from <hi>Rome, Paris,</hi> and other forraigne parts, and from ſeverall of this Kingdome (in order to the Iriſh Affaires) re<g ref="char:EOLhyphen"/>late, That the Pope would not at firſt ingage him<g ref="char:EOLhyphen"/>ſelfe for the ſending of a Nuncio for <hi>Ireland,</hi> untill the Iriſh Agents had fully poſſeſſed him that the reſtabliſhment of their Catholique Religion was a thing feizable in this Kingdome: whereupon hee undertooke the ſolicitation of their Cauſe with <hi>Florence, Venice,</hi> and other Eſtates, and to deligate his Nuncio to attend the Affairs of this Kingdome. The ſaid Nuncio after ſome delaies in <hi>France</hi> was expedited hence by the Popes expreſſe order, and arrived at the River of Killimarre with twenty ſixe Italians of his retinue in a Friggot of one and twen<g ref="char:EOLhyphen"/>ty peeces, 22. October, and in his company Secre<g ref="char:EOLhyphen"/>tary <hi>Beling,</hi> and divers regular and ſecular Prieſts; the Iriſh are much incouraged with the ſupplies, he hath brought the Liſt, whereof were found about the Arch-Biſhop, <hi>Inprimus</hi> two thouſand Muskets, foure thouſand Bandaleers, two thouſand Swords, five hundred pare of Piſtols, and ten thouſand weight of Powder, which arrived in another Friggot before him at Crooke-haven the tenth of October, together with ſixe Desks and Trunkes of Spaniſh gold, the ſumme uncertaine. Theſe Letters likewiſe informe us that all the Kings hope is from Ireland, and if they deſert him, he is likely to be undone very ſpeedily;
+<pb n="4" facs="tcp:113376:4"/>ſeverall other things they containe concerning Prince <hi>Rupert,</hi> Col. <hi>Legg,</hi> the Kings loſſes at Briſtoll and Chefter, which are as particularly related as if them<g ref="char:EOLhyphen"/>ſelves had been in the place; ſomething alſo there is concerning the Treaty of Peace. <hi>Ormond</hi> (ſaies one Letter) is found a Machavillan; <hi>Dillon, Muskery,</hi> and <hi>Talbot</hi> are for peace, <hi>Conditionibus quibuſcunque, which is,</hi> On any conditions whatſoever; (ſaies another) that their publike affairs are in <hi>via non ter<g ref="char:EOLhyphen"/>mino: which is,</hi> in a fair way, but not brought home un<g ref="char:EOLhyphen"/>to their end; (ſaies a third) the Propoſitions have their Anſwer ſlight and ſlow. There are ſome miſte<g ref="char:EOLhyphen"/>ries of State in the buſineſſe which cannot be com<g ref="char:EOLhyphen"/>mitted there to paper, yet more really certaine it is there will be peace; alſo the Letters expreſſe ſome differences amongſt themſelves between <hi>Muskery</hi> and <hi>Browne,</hi> in ſo much that <hi>Browne</hi> departed from Dub<g ref="char:EOLhyphen"/>lin diſcontented to Killkenny, between Caſtle-Haven and Preſton, in ſo much that Father <hi>Beauchamp</hi> was ſent from the ſupreame Counſell to reconcile them. There is alſo a private Letter, ſome ſuſpicions in<g ref="char:EOLhyphen"/>formations againſt <hi>Dominico Spinila</hi> an Agent in Ire<g ref="char:EOLhyphen"/>land, wherein he is traduced to hold correſpondency with the Queene of England in France, and ſo to be a lover of their enemies.</p>
+         </div>
+      </body>
+      <back>
+         <div type="list_of_prisoners_taken">
+            <pb facs="tcp:113376:4"/>
+            <head>Priſoners at Sliggo.</head>
+            <list>
+               <item>GReat <hi>Morogh ve Divo O Flaherty,</hi> Lievtenant Col. to <hi>Ric. Bourk,</hi> couſen German to the Earl of <hi>Clanrickard</hi> and his next Heire.</item>
+               <item>
+                  <hi>Iohn Garye,</hi> Lievt. Col. to Sir <hi>Tibbot Bourk,</hi> eldeſt Sonne to the Lord of <hi>Mayo.</hi>
+               </item>
+               <item>
+                  <hi>Richard Bourk</hi> Major to <hi>Ric. Bourk</hi> the Earle of <hi>Clan<g ref="char:EOLhyphen"/>richard,</hi> Heire and Sonne to Sir <hi>William Bourk,</hi> brother to the late Earle of <hi>Clanrickard.</hi>
+               </item>
+               <item>Captaine <hi>William O Shaghuiſe</hi> brother to Sir <hi>Roger O Shaghuiſe.</hi>
+               </item>
+               <item>Captaine <hi>Garret Dillon,</hi> Son to Sir <hi>Lucas Dillon,</hi> who ſaith that his father was ſhot in the thigh.</item>
+               <item>Cap. <hi>Ro. Caſtollogh.</hi>
+               </item>
+               <item>
+                  <hi>Killed. Edw. Brown</hi> Cap. of 100. Muskiteers out of Galloway, brother to <hi>Jeffery Brown</hi> the Lawyer.</item>
+               <item>Three Lievt. of foot.</item>
+               <item>Two Coronets.</item>
+               <item>Three Enſignes.</item>
+               <item>
+                  <hi>Killed.</hi> The Titular Arch-Biſhop of <hi>Tuain</hi> the Rebels Preſident of <hi>Connaught,</hi> a great Incendiary.</item>
+               <item>With ſeverall Priſoners of inferiour quality both of Horſe and Foot.</item>
+               <item>Two or three and twenty drowned.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
